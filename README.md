@@ -1,6 +1,6 @@
 ---
 
-## **Single-Cell RNA-Seq Analysis**
+**Single-Cell RNA-Seq Analysis**
 This repository contains a Jupyter Notebook demonstrating key steps in **single-cell RNA sequencing (scRNA-seq) analysis** using **Scanpy**. The workflow includes:  
 
 - **Preprocessing** (Normalization, Filtering, and Log Transformation)  
